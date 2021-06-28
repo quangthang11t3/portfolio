@@ -22,3 +22,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### ###################################################
+
+### Tạo 1 số game, hoặc app (list product)
+
+### ###################################################
